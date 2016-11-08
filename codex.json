@@ -1,0 +1,5 @@
+{
+"signInUsername": "//input[@id='username']",
+"signInPassword" : ".//input[@id='password']",
+"signInButton" : ".//button[@type='submit']"
+}
